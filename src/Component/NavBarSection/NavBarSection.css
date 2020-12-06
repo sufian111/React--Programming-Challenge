@@ -1,0 +1,19 @@
+.nav-link {
+  color: rgb(255, 255, 255) !important;
+}
+.search-bar input {
+  width: 80%;
+  padding: 1rem;
+  border: 1px solid #1d1d1d;
+  background: #1f1f1f;
+  font-size: 1.5rem;
+  color: #fff;
+  font-weight: 400;
+}
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+  font-family: Roboto, sans-serif;
+}

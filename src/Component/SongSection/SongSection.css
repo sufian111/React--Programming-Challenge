@@ -1,0 +1,6 @@
+.songCard {
+  background-color: black;
+}
+.songCard:hover {
+  box-shadow: 5px 10px 15px 7px gray;
+}
